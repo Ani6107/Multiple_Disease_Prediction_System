@@ -13,8 +13,6 @@ User-Friendly Interface: With a clean and intuitive user interface, users can ea
 Technology Stack
 Machine Learning Libraries: The predictive models are implemented using popular machine learning libraries in Python, ensuring accuracy and efficiency.
 
-Web Development: The front-end is built using HTML, CSS, and JavaScript, providing a seamless and responsive user experience.
-
 How to Use
 Input Data: Users are prompted to input specific health parameters through an easy-to-use interface.
 
